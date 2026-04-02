@@ -1,0 +1,5 @@
+Model,Dataset,Accuracy,F1-Score,ROC-AUC
+Random Forest,adasyn_nonfs,0.8804,0.2767,0.8446
+XGBoost,adasyn_nonfs,0.8809,0.2662,0.8534
+LightGBM,adasyn_nonfs,0.8815,0.268,0.8556
+Extra Trees,adasyn_nonfs,0.8812,0.2586,0.8382
