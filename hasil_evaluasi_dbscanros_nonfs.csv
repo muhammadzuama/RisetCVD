@@ -1,0 +1,5 @@
+Model,Dataset,Accuracy,F1-Score,ROC-AUC
+Random Forest,dbscanros_nonfs,0.8823,0.2393,0.843
+XGBoost,dbscanros_nonfs,0.6878,0.3279,0.8284
+LightGBM,dbscanros_nonfs,0.6879,0.331,0.8297
+Extra Trees,dbscanros_nonfs,0.8823,0.2362,0.8365

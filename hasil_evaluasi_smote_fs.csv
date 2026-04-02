@@ -1,0 +1,5 @@
+Model,Dataset,Accuracy,F1-Score,ROC-AUC
+Random Forest,smote_fs,0.8304,0.3135,0.7566
+XGBoost,smote_fs,0.8213,0.3502,0.8283
+LightGBM,smote_fs,0.8454,0.3362,0.8293
+Extra Trees,smote_fs,0.8312,0.3112,0.7149
