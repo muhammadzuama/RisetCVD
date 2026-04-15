@@ -1,0 +1,4 @@
+secara umum progress yang digunakan yaitu pada folder trainingdatafix1 menggunakan FS Xgboost dengan format quartile
+- labelHd artinay menggunakan label fitur '_MICHD'
+- masih belum menggunakan pembuatan fitur sbeelumnya karena mempertimbangkan fitur stroke 
+- impmentasi imputaso hanya mnegguakna data sampel 20k apda file LabelHdfsimputasifix.ipynb
